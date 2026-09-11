@@ -1,4 +1,5 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
+import PropTypes from 'prop-types'
 import {assets} from '../assets/assets'
 import axios from 'axios'
 import { backendUrl } from '../App'
@@ -156,6 +157,10 @@ const Add = ({token}) => {
 
     </form>
   )
+}
+
+Add.propTypes = {
+  token: PropTypes.string.isRequired,
 }
 
 export default Add
