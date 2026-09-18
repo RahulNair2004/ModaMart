@@ -66,4 +66,3 @@ This project is licensed under the MIT License.
 
 Enjoy shopping with ModaMart! 👗🛒
 
-```
