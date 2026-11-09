@@ -12,13 +12,13 @@ ModaMart is a modern, user-friendly e-commerce website that offers a wide range 
 - Responsive design for all device types
 - Secure payment integration (Stripe, Razorpay, etc.)
 - Newsletter subscription for latest offers and updates
-- Admin panel for managing products, orders, and users (if applicable)
+- Admin panel for managing products, orders, and users.
 
 ## Tech Stack
 
 - Frontend: React, Tailwind CSS, Vite
-- Backend: Node.js, Express (or your backend tech)
-- Database: MongoDB/PostgreSQL (replace with your actual DB)
+- Backend: Node.js, Express
+- Database: MongoDB/PostgreSQL
 - Payment Gateway: Stripe, Razorpay
 - Version Control: Git and GitHub
 
